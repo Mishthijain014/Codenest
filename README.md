@@ -204,6 +204,12 @@ Start the application:
 npm run dev
 ```
 
+Run the linter:
+
+``` bash
+npm run lint
+```
+
 Then open:
 
 ``` text
